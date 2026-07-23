@@ -3,4 +3,4 @@ Projects involving the application of stochastic methods in finance using VBA an
 
 **project-1**: Pricing of a Call using the binomial model
 
-**project-2**:
+**project-2**: Implied dividends
