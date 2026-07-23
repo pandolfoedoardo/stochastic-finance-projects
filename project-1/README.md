@@ -1,1 +1,1 @@
-The project aims at providing the price of a Call by using the (static) binomial model and compare it with the market quotes 									
+The project aims at providing the price of a Call on IBIT (with strike 3 and 6 months)  by using the (static) binomial model and compare it with the market quotes. The report explains also the theretical details
