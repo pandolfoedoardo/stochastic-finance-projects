@@ -1,2 +1,2 @@
 # stochastic-finance-projects
-projects regarding the application of stochastic methods for finance, using VBA and python
+Projects involving the application of stochastic methods in finance using VBA and Python.
