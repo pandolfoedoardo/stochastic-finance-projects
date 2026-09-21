@@ -1,7 +1,7 @@
 # Quantitative Finance Projects (VBA & Python)
 Projects involving the application of stochastic methods in finance using VBA and Python.
 
-# VBA:
+## VBA:
 
 **project-1**: Pricing of a Call using the binomial model (one step)
 
@@ -15,7 +15,7 @@ Projects involving the application of stochastic methods in finance using VBA an
 
 **project-6**: Monte Carlo Simulation for Path-Dependent & Exotic Options
 
-# Pyhton:
+## Python:
 
 **project-7**: Down-and-Out Barrier Options: Pricing & Risk Management
 
