@@ -3,7 +3,7 @@ Projects involving the application of stochastic methods in finance using VBA an
 
 ## VBA:
 
-**project-1**: Pricing of a Call using the binomial model (one step)
+[**project-1**](./project-1/): Pricing of a Call using the binomial model (one step)
 
 **project-2**: Implied dividends
 
